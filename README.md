@@ -3,7 +3,7 @@
 # 🚀 Shubham Arora
 ### *Cloud Solutions Architect • DevOps &amp; DevSecOps Engineer • Enterprise Terraform Specialist*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vcenter=true&width=650&lines=Enterprise+Cloud+Infrastructure+as+Code;Architecting+Zero-Trust+Landing+Zones;Multi-Region+BCDR+%26+FinOps+Optimization;Azure+%E2%80%A2+Terraform+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vcenter=true&width=650&lines=Enterprise+Cloud+Infrastructure+as+Code;Architecting+Zero-Trust+Landing+Zones;Multi-Region+BCDR+%26+FinOps+Optimization;Microsoft+Azure+Cloud+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD)](https://git.io/typing-svg)
 
 <br/>
 
